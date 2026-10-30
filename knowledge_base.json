@@ -1,0 +1,35 @@
+{
+  "store_name": "ShopEase",
+  "faqs": [
+    {
+      "category": "delivery",
+      "question": "How long does delivery take?",
+      "answer": "Standard delivery usually takes 3 to 5 business days."
+    },
+    {
+      "category": "delivery",
+      "question": "Can I track my order?",
+      "answer": "Customers can track orders using the tracking link in their shipping confirmation email."
+    },
+    {
+      "category": "returns",
+      "question": "What is the return policy?",
+      "answer": "Eligible products can be returned within 7 days of delivery if they are unused and in their original packaging."
+    },
+    {
+      "category": "refunds",
+      "question": "How long do refunds take?",
+      "answer": "After a return is approved, refunds are generally processed within 5 to 7 business days."
+    },
+    {
+      "category": "payments",
+      "question": "Which payment methods are accepted?",
+      "answer": "The store accepts UPI, debit cards, credit cards, and net banking."
+    },
+    {
+      "category": "products",
+      "question": "What if I receive a damaged product?",
+      "answer": "Customers should contact support with their order details and photos of the damaged item."
+    }
+  ]
+}

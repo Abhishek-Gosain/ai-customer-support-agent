@@ -1,0 +1,9 @@
+
+order_id,customer_name,product,status,estimated_delivery
+1001,Rahul,Laptop,Shipped,2026-11-02
+1002,Priya,Wireless Mouse,Delivered,2026-10-28
+1003,Amit,Keyboard,Processing,2026-11-04
+1004,Neha,Monitor,Out for Delivery,2026-10-30
+1005,Rohan,Headphones,Cancelled,Not Applicable
+1006,Anjali,Smartphone,Shipped,2026-11-03
+1007,Karan,Tablet,Processing,2026-11-05

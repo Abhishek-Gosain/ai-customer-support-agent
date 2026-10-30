@@ -1,0 +1,10 @@
+feedback_id,created_at,customer_message,assistant_answer,rating,comment
+168605a3,2026-10-30 15:47:57,return policy,"Our return policy allows you to return eligible products within 7 days of delivery, provided they are unused and in their original packaging.",👍 Helpful,fast reply
+25d26110,2026-10-30 15:48:17,delivery time,Our standard delivery usually takes 3 to 5 business days.,👎 Not helpful,very slow reply
+4938e4c7,2026-10-30 15:51:33,where is my order 1001?,"Here are the details for order **#1001**:
+
+- **Product:** Laptop
+- **Order status:** Shipped
+- **Estimated delivery:** 2026-11-02
+
+Please note that this is sample order information from our demonstration database.",👍 Helpful,
